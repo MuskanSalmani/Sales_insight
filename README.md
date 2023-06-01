@@ -1,8 +1,10 @@
 ## Sales_Insights Data Analysis Project
-
-
 The Sales Insight Project is a comprehensive data analysis and visualization project that I developed using SQL analysis and Power BI. This project was aimed at providing valuable insights into sales data to support strategic decision-making and drive business growth.
+![sales_1](https://github.com/MuskanSalmani/Sales_insight/assets/96484516/cce1d970-9d4f-48e2-951a-2e395bf4cb6d)
 
+![sales-2](https://github.com/MuskanSalmani/Sales_insight/assets/96484516/ec117862-cb3f-4d87-b20a-b605e76a73ef)
+
+![sales-3](https://github.com/MuskanSalmani/Sales_insight/assets/96484516/03e9928c-c88d-4dba-9c4a-20d68ce7e6da)
 
 ## Data Analysis Using SQL
 
@@ -84,11 +86,4 @@ Key Features:
 **Scalability and adaptability:** The project's architecture and design allowed for easy scalability and adaptability to accommodate future growth and changes in the sales landscape. New data sources can be incorporated, and additional analytics can be implemented to support evolving business needs.
 
 The Sales Insight Project showcases my expertise in SQL analysis and Power BI visualization, as well as my ability to translate complex data into meaningful insights. Through this project, I demonstrated the value of data-driven decision-making and the potential for leveraging technology to drive sales growth and improve business performance.
-
-
-
-
-
-
-
 
